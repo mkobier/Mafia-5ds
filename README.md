@@ -1,2 +1,2 @@
-# Mafia-5ds
-Mafia 5ds animation importer
+# Mafia 5ds Blender animation importer
+Mafia 5ds Blender animation importer
