@@ -6,7 +6,7 @@ Mafia 5ds Blender animation importer
 ### Installation:
 1. Click green button `Code` and `Download ZIP`.
 2. Unpack downloaded zip file.
-3. Open Blender, than click on "Edit" and than `Preferences...`   (shortcut: Ctrl + "," ).
+3. Open Blender, than click on `Edit` and than `Preferences...`   (shortcut: Ctrl + "," ).
 4. Click on `Add-ons` and than `Install...`.
 5. Go to your created zip file, open "mafia_5ds_import.py".
 6. Add-on should be added to import-export category. Enable it and in add-on preferences select location of unpacked MAPS folder.
