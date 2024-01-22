@@ -4,7 +4,7 @@ Mafia 5ds Blender animation importer
 <img src="https://i.postimg.cc/TPMnyKr2/tommy-walk.jpg" alt="Tommy Walk1.5ds">
 
 ### Installation:
-1. Click green button `Code` and `Download ZIP`.
+1. Click green button `<> Code` and `Download ZIP`.
 2. Unpack downloaded zip file.
 3. Open Blender, than click on `Edit` and than `Preferences...`   (shortcut: Ctrl + "," ).
 4. Click on `Add-ons` and than `Install...`.
