@@ -11,5 +11,6 @@ Mafia 5ds Blender animation importer
 5. Go to your created zip file, open "mafia_5ds_import.py".
 6. Add-on should be added to import-export category. Enable it and in add-on preferences select location of unpacked MAPS folder.
 7. Close preferences window. In the top bar there should be `Mafia Animations Importer` tab. Select it.
-8. Click on import 4ds button. Select .4ds file of Mafia character for example: Tommy.4ds, Hoolig4.4ds, Civil02.4ds etc.
-9. Next select animation, press Spacebar to play animation. 
+8. Click on `First import Mafia 4ds character` button. Select .4ds file of Mafia character for example: Tommy.4ds, Hoolig4.4ds, Civil02.4ds etc.
+9. Next import .5ds animation using second button, press Spacebar to play animation. 
+10. You can than select other animations later. In order to change character model reload Blender.
